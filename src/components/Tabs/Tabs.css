@@ -1,0 +1,87 @@
+.tabs {
+  margin-bottom: 48px;
+}
+
+.header-tabs {
+  display: flex;
+  background: var(--blue-dark-9);
+  border-radius: 8px;
+  padding: 4px;
+  margin-bottom: 24px;
+}
+
+.tab-button {
+  flex: 1;
+  border: none;
+  background-color: var(--blue-dark-10);
+  padding: 14px 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.tab-button.active { 
+  background: var(--blue-dark-9);
+  color: var(--white); 
+}
+
+.tab-content {
+  padding: 32px;
+  background: var(--blue-dark-9);
+  border-radius: 12px;
+  border: 2px solid var(--blue-dark-10);
+  min-height: 160px;
+}
+
+.tab-content h3 {
+  color: var(--white);
+  margin-bottom: 12px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.games {
+  display: flex;
+  flex-direction: column;
+}
+
+.games li {
+  list-style: none;
+}
+
+.games ul a {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+
+.tech {
+  display: flex;
+  flex-direction: column;
+}
+
+.tech li {
+  list-style: none;
+  padding-bottom: 7px;
+}
+
+.tech ul {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.languages {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.langimg {
+  width: 100px;
+}
