@@ -1,4 +1,4 @@
-# Projeto Menu
+# Projeto Menu 👩‍💻
 
 Projeto de Página Geek com Menu usando React<br>
 Feito por : Gustavo Millamonte<br>
