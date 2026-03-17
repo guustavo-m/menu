@@ -1,4 +1,10 @@
-# React + Vite
+# Projeto Menu
+
+Projeto de Página Geek com Menu usando React<br>
+Feito por : Gustavo Millamonte<br>
+Análise e Desenvolvimento de Sistemas - SENAI<br>
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
